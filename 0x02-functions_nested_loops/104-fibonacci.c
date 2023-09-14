@@ -19,7 +19,8 @@ int main(void)
 		term1 = term2;
 		term2 = next;
 		if (i != 97)
-			printf(", ");
+			printf(",");
 	}
+	printf("\n");
 	return (0);
 }
