@@ -4,7 +4,7 @@
  * init_dog - the new struct dog whose variable is to be initialized
  * @d: pointer to the struct of the new dog
  * @name: name of the new dog
- * @Age: age of the new dog
+ * @age: age of the new dog
  * @owner: owner of the new dog
  */
 
