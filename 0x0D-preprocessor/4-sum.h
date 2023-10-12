@@ -9,6 +9,6 @@
  * Desc: function like macro that computes the sum of the numbers x and y
  */
 
-#define SUM(x, y) (x) + (y)
+#define SUM(x, y) ((x) + (y))
 
 #endif
